@@ -15,3 +15,6 @@ $ jupyter notebook
 ```
 
 Use Jupyter notebook to visualize the **2KHM** protein, as studied in [A conserved spider silk domain acts as a molecular switch that controls fiber assembly](https://www.nature.com/articles/nature08936) Hagn et al., Nature 2010.
+
+![2KHM_animate-trajectory](https://user-images.githubusercontent.com/9609601/157286216-b4ace09e-b78f-41f4-8e70-6b205cf8143a.gif)
+Source: [RCSB](https://www.rcsb.org/3d-view/2KHM/0)
